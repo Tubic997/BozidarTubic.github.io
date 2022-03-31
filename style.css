@@ -115,12 +115,12 @@ nav ul li a:hover{
 }
 
 .footer{
-    text-align: center;
     background-color: #293030;
     
 }
 
 .footer .social2{
+    text-align: center;
     padding: 5px;
     color:#B1C5E7;
     
