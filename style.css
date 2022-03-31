@@ -1,3 +1,7 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;200;300&display=swap');
+
+
+
 *{
     margin: 0;
     padding: 0;
@@ -79,6 +83,7 @@ nav ul li a:hover{
 
 .info p{
     color: #293030;
+    text-decoration: #293030;
     line-height: 40px;
     margin-top: 30px;
     margin-bottom: 50px;
@@ -121,7 +126,7 @@ nav ul li a:hover{
 
 .footer .social2{
     text-align: center;
-    padding: 5px;
+    padding: 4px;
     color:#B1C5E7;
     
 }
